@@ -1,0 +1,4 @@
+/home/cs141/vnav/lab1/cmake-test/build/CMakeFiles/rebuild_cache.dir
+/home/cs141/vnav/lab1/cmake-test/build/CMakeFiles/mylib.dir
+/home/cs141/vnav/lab1/cmake-test/build/CMakeFiles/edit_cache.dir
+/home/cs141/vnav/lab1/cmake-test/build/CMakeFiles/main.dir

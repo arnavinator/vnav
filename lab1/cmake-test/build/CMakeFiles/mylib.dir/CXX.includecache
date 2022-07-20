@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cs141/vnav/lab1/cmake-test/my_lib.cpp
+string
+-
+my_lib.hpp
+/home/cs141/vnav/lab1/cmake-test/my_lib.hpp
+
+/home/cs141/vnav/lab1/cmake-test/my_lib.hpp
+string
+-
+
