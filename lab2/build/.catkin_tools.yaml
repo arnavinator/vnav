@@ -1,0 +1,6 @@
+devel_space: /home/cs141/vnav_labs/ros_ws/devel
+install: false
+install_space: /home/cs141/vnav_labs/ros_ws/install
+profile: default
+source_space: /home/cs141/vnav_labs/ros_ws/src
+workspace: /home/cs141/vnav_labs/ros_ws

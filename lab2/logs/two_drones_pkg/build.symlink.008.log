@@ -1,0 +1,5 @@
+Linked: (/home/cs141/vnav_labs/ros_ws/devel/.private/two_drones_pkg/share/two_drones_pkg/cmake/two_drones_pkgConfig.cmake, /home/cs141/vnav_labs/ros_ws/devel/share/two_drones_pkg/cmake/two_drones_pkgConfig.cmake)
+Linked: (/home/cs141/vnav_labs/ros_ws/devel/.private/two_drones_pkg/share/two_drones_pkg/cmake/two_drones_pkgConfig-version.cmake, /home/cs141/vnav_labs/ros_ws/devel/share/two_drones_pkg/cmake/two_drones_pkgConfig-version.cmake)
+Linked: (/home/cs141/vnav_labs/ros_ws/devel/.private/two_drones_pkg/lib/two_drones_pkg/frames_publisher_node, /home/cs141/vnav_labs/ros_ws/devel/lib/two_drones_pkg/frames_publisher_node)
+Linked: (/home/cs141/vnav_labs/ros_ws/devel/.private/two_drones_pkg/lib/two_drones_pkg/plots_publisher_node, /home/cs141/vnav_labs/ros_ws/devel/lib/two_drones_pkg/plots_publisher_node)
+Linked: (/home/cs141/vnav_labs/ros_ws/devel/.private/two_drones_pkg/lib/pkgconfig/two_drones_pkg.pc, /home/cs141/vnav_labs/ros_ws/devel/lib/pkgconfig/two_drones_pkg.pc)

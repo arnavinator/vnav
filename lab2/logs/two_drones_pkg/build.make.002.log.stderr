@@ -1,0 +1,8 @@
+[01m[K/home/cs141/vnav_labs/ros_ws/src/two_drones_pkg/src/plots_publisher_node.cpp:[m[K In member function ‘[01m[Kvoid PlotsPublisherNode::TrajTrail::update()[m[K’:
+[01m[K/home/cs141/vnav_labs/ros_ws/src/two_drones_pkg/src/plots_publisher_node.cpp:52:10:[m[K [01;31m[Kerror: [m[K‘[01m[Klistener[m[K’ was not declared in this scope; did you mean ‘[01m[Ktf_listener[m[K’?
+   52 |          [01;31m[Klistener[m[K.waitForTransform("dest_frame", "ref_frame", ros::Time(0), ros::Duration(10.0));
+      |          [01;31m[K^~~~~~~~[m[K
+      |          [32m[Ktf_listener[m[K
+make[2]: *** [CMakeFiles/plots_publisher_node.dir/build.make:63: CMakeFiles/plots_publisher_node.dir/src/plots_publisher_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:187: CMakeFiles/plots_publisher_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2
